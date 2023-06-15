@@ -58,6 +58,6 @@ body {
 .cross::after {
     top: 50%;
     height: 30%;
-    margin-top: -15%;
+    margin-top: -16%;
     width: 100%;
 }
