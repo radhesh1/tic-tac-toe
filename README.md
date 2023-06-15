@@ -29,7 +29,7 @@ Welcome to the Basic Tic-Tac-Toe Project, where the timeless game we all know an
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/tic-tac-toe-project.git
+git clone https://github.com/radhesh1/tic-tac-toe.git
 ```
 
 2. Open the project in your favorite code editor.
