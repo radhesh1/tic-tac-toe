@@ -1,4 +1,4 @@
-# Basic Tic-Tac-Toe Project
+# Basic Tic-Tac-Toe Website
 
 ![Tic-Tac-Toe Project](image.png)
 
