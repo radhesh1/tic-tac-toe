@@ -4,7 +4,7 @@
 
 > ⭕❌ A classic game of Tic-Tac-Toe brought to life with a simple and intuitive interface.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/license/lgpl-2-0/)
 [![GitHub stars](https://img.shields.io/github/stars/radhesh1/tic-tac-toe.svg)](https://github.com/radhesh1/tic-tac-toe/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/radhesh1/tic-tac-toe.svg)](https://github.com/radhesh1/tic-tac-toe/network)
 [![GitHub issues](https://img.shields.io/github/issues/radhesh1/tic-tac-toe.svg)](https://github.com/radhesh1/tic-tac-toe/issues)
