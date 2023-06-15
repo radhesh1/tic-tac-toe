@@ -4,6 +4,9 @@ const startCells = [
     "", "", "", "", "", "", "", "", ""
 ]
 
+let go = "circle"
+infoDisplay.textContent = "circle goes first"
+
 function createBoard(){
     startCells.forEach((_cell, index) =>{
        const cellElement = document.createElement('div')
@@ -18,6 +21,8 @@ createBoard()
 
 function addGo(e){
     const goDisplay = document.createElement('div')
-    goDisplay.classList.add('circle')
+    goDisplay.classList.add(go)
     e.target.append(goDisplay)
+    go = go === "circle" ? "cross" : "circle"
+    infoDisplay.textContent = "it is now" + go +"'s go."
 }
