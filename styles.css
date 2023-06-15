@@ -73,7 +73,7 @@ body {
     color: rgba(255, 255, 255);
     padding: 5px 15px;
     position: absolute;
-    right: 15px;
-    bottom: 11px;
-    vertical-align: baseline
+    justify-content: center;
+    align-items: center;
+    top: 15px;
 }
