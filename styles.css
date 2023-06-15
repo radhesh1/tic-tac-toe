@@ -63,7 +63,7 @@ body {
     width: 100%;
 }
 
-.buttoncir {
+#buttoncir {
     background-color: rgb(209, 22, 6);
     border: none;
     border-radius: 4px;
