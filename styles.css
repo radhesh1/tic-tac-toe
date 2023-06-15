@@ -42,14 +42,21 @@ body {
     position: relative;
 }
 
-.cross:before, .cross:after {
+.cross::before, .cross::after {
     content: "";
     position: absolute;
     background-color: red;
 }
 
-.cross:before {
+.cross::before {
     left: 50%;
     width: 30%;
     margin-left: -15%;
+}
+
+.cross::after {
+    left: 50%;
+    height: 30%;
+    margin-left: -15%;
+    width: 100%;
 }
