@@ -29,7 +29,7 @@ body {
     height: 90px;
     width: 90px;
     border-radius: 50%;
-    border:solid 15px red;
+    border:solid 15px blue;
     box-sizing: border-box;
     display: flex;
     justify-content: center;
