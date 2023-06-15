@@ -57,7 +57,7 @@ body {
 
 .cross::after {
     top: 50%;
-    width: 30%;
+    height: 30%;
     margin-top: -15%;
-    height: 100%;
+    width: 100%;
 }
