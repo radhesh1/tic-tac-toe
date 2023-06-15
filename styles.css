@@ -40,6 +40,7 @@ body {
     height: 90px;
     width: 90px;
     position: relative;
+    transform: rotate(45deg);
 }
 
 .cross::before, .cross::after {
@@ -58,6 +59,6 @@ body {
 .cross::after {
     top: 50%;
     height: 30%;
-    margin-top: -16%;
+    margin-top: -15%;
     width: 100%;
 }
