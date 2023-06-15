@@ -1,6 +1,6 @@
 # Basic Tic-Tac-Toe Project
 
-![Tic-Tac-Toe Project](project-image.jpg)
+![Tic-Tac-Toe Project](image.png)
 
 > ⭕❌ A classic game of Tic-Tac-Toe brought to life with a simple and intuitive interface.
 
