@@ -25,4 +25,5 @@ function addGo(e){
     e.target.append(goDisplay)
     go = go === "circle" ? "cross" : "circle"
     infoDisplay.textContent = "it is now" + go +"'s go."
+    e.target.removeEventListener('click',addGo)
 }
